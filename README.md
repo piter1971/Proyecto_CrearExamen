@@ -9,6 +9,7 @@ Hay dos modos de crear un examen :  1) Examen cargado por el programador se acce
                                     Engranaje del proyecto
 PanelPrincipal.java :
 La ventana principal del programa, con un barra menu con submenu: 
+
 Examenes  - 1) ir al examen creado por el programador
           - 2) ir al examen creado por el usuario 
                                                                                                       
