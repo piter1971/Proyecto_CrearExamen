@@ -8,10 +8,12 @@ Hay dos modos de crear un examen :  1) Examen cargado por el programador se acce
                                     
                                     Engranaje del proyecto
 PanelPrincipal.java :
-                      La ventana principal del programa, con un barra menu con submenu: Examenes      - 1) ir al examen creado por el programador
-                                                                                                      - 2) ir al examen creado por el usuario 
+La ventana principal del programa, con un barra menu con submenu: 
+Examenes  - 1) ir al examen creado por el programador
+          - 2) ir al examen creado por el usuario 
                                                                                                       
-                                                                                       Crear Examenes -1) ventana para que el usuario pueda cargar un examen.
+Crear Examenes -1) ventana para que el usuario pueda cargar un examen.
+
 CrearExamenUsuario.java :
                           Aqui el usuario puede cargar a la base de datos su examen. el examen debe estar en un archivo .txt de bloc de notas Pasos a seguir.
                           1) Elegir el archivo.txt  donde estan las preguntas  opciones de respuestas con un JFileChooser.
